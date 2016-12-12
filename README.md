@@ -1,1 +1,1 @@
-# Calculadora-da-Conta-de-gua
+Oprograma server para ajuda-lo a calcular a conta de água e auxilia-lo  a controla seus gastos do més. Oprograma segue a tabela da SABESP atualizada para abril de 2016. Esse programa tem sua validade de acordo com os reajuste da tabela de combraça da SABESP.
